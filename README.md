@@ -1,55 +1,77 @@
-## 💜 Olá, meu nome é <strong>Débora!</strong>
+## 💜 Olá, eu sou a Débora Veras!
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="400px" align="right"/>
 
-<p align="left"> 
-  
-Seja bem-vindo(a) ao meu espaço no GitHub! Eu sou uma apaixonada por tecnologia e criar interfaces web envolventes e funcionais. Como desenvolvedora front-end, meu objetivo é transformar designs criativos em experiências interativas e acessíveis para os usuários.
+✨ Desenvolvedora **Front-end** apaixonada por transformar ideias em **interfaces modernas, acessíveis e funcionais**.
 
-</p>
+Tenho foco em criar experiências digitais que unam **design, performance e usabilidade**, sempre aplicando boas práticas, código limpo e buscando evolução constante 🚀
 
-<p align="left">
-  
-  ## 🚀 Minhas Skills
+- 💻 Front-end Developer  
+- 🎨 Interfaces focadas em UX/UI  
+- 📚 Em constante aprendizado  
 
-  <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
-</p>
-  
+---
 
+## 🚀 Tech Stack & Skills
 
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+  <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML5"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS3"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" alt="Angular"/></code>
 </p>
 
+---
+
+## 🧩 O que eu faço
+
+- Criação de interfaces responsivas e acessíveis  
+- Desenvolvimento de aplicações SPA  
+- Componentização e reutilização de código  
+- Integração com APIs REST  
+- Versionamento com Git e GitHub  
+
+---
+
+## 🌐 Onde me encontrar
+
 <p align="left">
-  
-  ## ⚙️ GitHub Analytics
+  <a href="mailto:SEUEMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/SEULINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://wa.me/SEUNUMERO">
+    <img src="https://img.shields.io/badge/WhatsApp-25d366?style=flat-square&logo=whatsapp&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/SEUUSUARIO">
+    <img src="https://img.shields.io/badge/Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚙️ GitHub Analytics
+
+<p align="center">
   <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=debs-veras&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github stats"
-    />
-    <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=debs-veras&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
-        alt="Github stats"
-   />
-  
+    src="https://github-readme-stats.vercel.app/api?username=debs-veras&show_icons=true&theme=dark"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=debs-veras&layout=compact&theme=dark"
+    height="165"
+  />
 </p>
+
+---
+
+✨ _“Transformando código em experiências incríveis.”_
