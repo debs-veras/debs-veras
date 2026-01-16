@@ -61,16 +61,9 @@ Meu foco é unir **design, usabilidade e performance** para entregar experiênci
 ## ⚙️ GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=debs-veras&show_icons=true&theme=dark"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=debs-veras&layout=compact&theme=dark"
-    height="165"
-  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=debs-veras&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=debs-veras&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
----
 
 ✨ _“Transformando código em experiências digitais únicas e memoráveis.”_
