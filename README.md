@@ -23,8 +23,6 @@ Trabalho criando **interfaces escaláveis, acessíveis e bem estruturadas**, com
 
 > *Frontend é onde código encontra experiência.*
 
----
-
 ## ⚛️ Stack Principal
 
 <div align="center">
@@ -45,8 +43,6 @@ Trabalho criando **interfaces escaláveis, acessíveis e bem estruturadas**, com
   <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=debs-veras&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=debs-veras&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
-
----
 
 ## 🌐 Vamos nos conectar?
 
