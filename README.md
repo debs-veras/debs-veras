@@ -12,7 +12,10 @@
 
 Oi! Eu sou a **Débora Hellen**, **Frontend Developer** com foco em **React** e **experiência do usuário**.
 
-Trabalho criando **interfaces escaláveis, acessíveis e bem estruturadas**, com atenção especial a **motion**, **microinterações** e **performance**. Busco sempre escrever **código limpo**, previsível e fácil de evoluir.
+Trabalho criando aplicações frontend que equilibram arquitetura, usabilidade, performance e motion com propósito — nada de animação gratuita ou código difícil de manter.
+Gosto de frontend porque é onde lógica, design e experiência real do usuário se encontram.
+
+
 
 **O que me move no frontend:**
 
