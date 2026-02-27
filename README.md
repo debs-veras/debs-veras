@@ -1,5 +1,3 @@
-<!-- ================= HERO / BANNER ================= -->
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=2600&pause=900&color=C4B5FD&center=true&vCenter=true&width=900&lines=Frontend+Developer+%7C+React+Specialist;Interfaces+performáticas%2C+acessíveis+e+animadas;UX+com+intenção%2C+motion+com+propósito" />
 </p>
@@ -15,8 +13,6 @@ Oi! Eu sou a **Débora Hellen**, **Frontend Developer** com foco em **React** e 
 Trabalho criando aplicações frontend que equilibram arquitetura, usabilidade, performance e motion com propósito — nada de animação gratuita ou código difícil de manter.
 Gosto de frontend porque é onde lógica, design e experiência real do usuário se encontram.
 
-
-
 **O que me move no frontend:**
 
 * ⚛️ **Componentização e arquitetura em React**
@@ -24,7 +20,7 @@ Gosto de frontend porque é onde lógica, design e experiência real do usuário
 * 🎨 **UX/UI orientado a usabilidade e conversão**
 * 🚀 **Performance, SEO e boas práticas**
 
-> *Frontend é onde código encontra experiência.*
+> *Ferramenta não é diferencial. Decisão técnica é.*
 
 ## ⚛️ Stack Principal
 
