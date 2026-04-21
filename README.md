@@ -4,7 +4,7 @@
 
 ## 💜 Sobre mim
 
-<img align="right" width="480" src="https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?q=80&w=2070&auto=format&fit=crop" width="100%" />
+<img align="right" width="420" src="https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?q=80&w=2070&auto=format&fit=crop" width="100%" />
 
 Oi! Eu sou a **Débora Hellen**, **Frontend Developer** com foco em **React** e **experiência do usuário**.
 
